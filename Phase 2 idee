@@ -1,0 +1,19 @@
+Synchrone:
+
+Der Gast ruf über seinem Smartphone die Speisekarte ab. Er schickt eine anfrage an den Server und bekommt die Karte auf seinem Smartphone angezeigt.
+
+
+Asynchrone:
+
+Kellner Gruppen:
+Bestellung aufnehmen
+Gericht Servieren 
+Getränk Servieren 
+
+Der Kellner schickt die Bestellung des Gastes an die Küche oder Bar mit den Informationen:
+Welche/s Gericht/e, Welche/s Getränk/e und Welcher Tisch
+
+Die Kellner die für die Aufnahme der Bestellungen zuständig sind bestätigen das Tisch xy bestellt hat damit die anderen an den Tischen gehen können die noch nicht bestellt haben.
+
+Wenn die Bestellung bearbeitet wurde schickt z.B. die Bar an den für den Tisch zugehörigen Kellner eine Nachricht dass das Getränk abholbereit ist. 
+
