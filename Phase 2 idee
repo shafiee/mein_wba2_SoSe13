@@ -6,9 +6,9 @@ Der Gast ruf über seinem Smartphone die Speisekarte ab. Er schickt eine anfrage
 Asynchrone:
 
 Kellner Gruppen:
-Bestellung aufnehmen
-Gericht Servieren 
-Getränk Servieren 
+Bestellungen aufnehmen
+Gerichte Servieren 
+Getränke Servieren 
 
 Der Kellner schickt die Bestellung des Gastes an die Küche oder Bar mit den Informationen:
 Welche/s Gericht/e, Welche/s Getränk/e und Welcher Tisch
